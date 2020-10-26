@@ -1,6 +1,6 @@
-## Hi there, my name is João (or Jonh) Gabriel 👋
+### Hi there, my name is João (or Jonh) Gabriel 👋
 
-## I'm Jr. Developer and constant technology student.
+### I'm Jr. Developer and constant technology student.
 
 <!--
 **JoaoGabrielOliveira/JoaoGabrielOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
